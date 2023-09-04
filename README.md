@@ -1,7 +1,6 @@
 # SistemaLanchonete
  
- - Cardápio: Pastéis, salgados, doces, bebidas
- - Pedido será realizado com o nome do cliente e os produtos comprados
- - Sistema imprimirá a nota fiscal
- - Vendedor poderá inserir o valor recebido em dinheiro
- - Sistema calculará o troco 
+- Menu: Pastries, snacks, sweets, drinks
+- Order will be carried out with the name of the customer and the products purchased
+- Invoice printing
+- The system will calculate the change according to the given bill
